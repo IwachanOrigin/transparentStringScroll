@@ -1,3 +1,7 @@
+/**
+ * @copyright Copyright (c) Yuji Iwanaga
+ * @date 11th Oct. 2020
+ */
 
 #ifndef TRANSPARENTIMAGE_H
 #define TRANSPARENTIMAGE_H
